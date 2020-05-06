@@ -1,6 +1,8 @@
 # Calculadora 
 
-Calculadora simple hecha en codigo Python 3.6 utilizando GUI Tkinter basado en un tutorial de Pildoras Informaticas y agregandole mis propias modificaciones.
+# Descripcion 
+Calculadora simple hecha en Python utilizando GUI Tkinter basado en un tutorial de Pildoras Informaticas y agregandole mis propias modificaciones.
+Realizado por Santiago Menendez
 
 # Caracteristicas
 
